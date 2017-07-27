@@ -2,13 +2,13 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.vyalux.filos.secondary-icon"
-      version="0.0.5">
+      version="0.0.6">
 
     <name>SecondaryIconPluginFilos</name>
-    <description>Secondary Icon Plugin for Phonegap Build applications, customized for Filys by Vyalux</description>
+    <description>Secondary Icon Plugin for Phonegap Build applications, customized for Filos by Vyalux</description>
     <license>MIT</license>
     <keywords>cordova,pgb,phonegap,build,icon,res</keywords>
-    <repo>https://github.com/kentmw/secondary-icon.git</repo>
+    <repo>https://github.com/vyalux/secondary-icon.git</repo>
 
     <engines>
       <engine name="cordova" version=">=3.0.0" />
